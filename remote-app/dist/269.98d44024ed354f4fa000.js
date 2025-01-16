@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkremote_app=self.webpackChunkremote_app||[]).push([[269],{269:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var o=n(86),r=n.n(o);const a=function(){return r().createElement("button",{style:{padding:"10px",fontSize:"16px",backgroundColor:"#28a745",color:"#fff"}},"Add to Cart")}}}]);
+//# sourceMappingURL=269.98d44024ed354f4fa000.js.map
